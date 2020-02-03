@@ -1,0 +1,204 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* menu */
+#blacknav{
+    background: #000;
+    color: #fff;
+}
+
+#blacknav a{
+    color: #fff;
+}
+
+#blacknav a:hover{
+    color: #ccc;
+}
+
+
+
+
+
+/* nome del sito jane bloglife */
+#nomesito{
+    background: #fff;
+    height: 200px;
+}
+
+#nomesito .titolo{
+    color: #000;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+#nomesito h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+#nomesito .evidenzio{
+    padding: 5px;
+    background: #000;
+    color: #fff;
+}
+
+
+
+
+
+/* fashion blog intesta */
+#fashion{
+    font-family: 'Oswald', sans-serif;
+    background: url(img/jane.jpg);
+    background-size: cover;
+    height: 1000px;
+    color: #fff;
+    font-size: 40px;
+}
+
+#fashion h2{
+    font-size: 80px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.iscriviti{
+    opacity: 0.8;
+    background: #ccc;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+}
+
+
+
+
+
+
+
+/* blog */
+.blog{
+    background: #f1f1f1;
+}
+
+
+
+
+
+/* ----- POST ------ */
+.post{
+    background: #fff;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.post .subtitle{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    text-decoration: inherit;
+}
+
+.post .light{
+    color: #666;
+}
+
+
+.img-post{
+    width: 100%;
+    margin: 20px 0;
+}
+
+
+
+h3{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 24px;
+    text-align: center;
+}
+
+.post hr{
+    width: 100%;
+    border: 1px color #f1f1f1;
+}
+
+/* tasti */
+.social-tasti{
+width: 100%;
+margin: auto;
+}
+
+
+.like{
+    border: 1px solid #666;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.replies{
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.number{
+    padding: 5px 10px;
+    color: #000;
+    background: #fff;
+
+}
+
+
+
+
+/* autore */
+.author{
+    border-top: 1px solid #ccc;
+    margin-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 30px;
+}
+
+.img-author{
+    margin-right: 30px;
+    width: 150px;
+}
+
+.author-name{
+    margin-top: 40px;
+    text-decoration: inherit;
+    font-size: 22px;
+}
+
+
+
+
+
+
+/* -------- SIDEBAR --------- */
+
+/* card */
+.scuro{
+    background: #000;
+    color: #fff;
+    margin-top: 20px;
+    border: 0px;
+    border-radius: 2px;
+    
+}
+
+.avatar-right{
+    -webkit-filter: grayscale(60%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(60%);
+}
+
+h5{
+    font-family: 'Oswald', sans-serif;
+}
